@@ -1,44 +1,44 @@
-Worked on erickouass.com
-Try to change yorisi.com theme
-Donwloded new theme on yorisi.com/app
-Did some changes
-Blogs and contact form completed
-ToDo: Add portfolio image for website
-Make major change to the site
-Site break after the change
-Removed installation of the site
-Spend over 8+ hours working on the site
-footer update
-shop items added
-fixed footer
-changed login logo
-Added new page: Tools We Use
-Added link in the " Tool We Use"
-Business card for yorisi LLC
-New site added to Yorisi LLC portfolio
-Worked on Hairperfectionist.net all day.
-Worked on Hairperfectionist.net 
-Installed chat on yorisi.com
-Little change on the chat widget
-still working on fcc javascript calculator 3.37.19
-Worked on erickouass.com 4/11/2019
-Worked on Yorisi.com 4/12/2019
-Reading canvas module 3
-Update banks info
-Upade google site info 12/12/2019
-Try to redesign this section 12.13.2019
-Read JavaScript introduction 
-Read JavaScript part 1
-Update google site info 1/05/2020
-Clean gmail inbox 1/06/2020
-Add second email sent for club 
-Spreadsheet status 1/14/2020
-Yorisi date update 01/16/2020
-Update erickouassi.com 01/26/2020
-Prepare business tax document 2/2/2020
-Complete business tax document 2/3/2020
-Complete JavaScript Algorithms and Data Structures 2/4/2020
-Registration of New Users 2/6/2020
-Download JavaScript book 2/7/2020
-FCC study 2/8/2020
+- Worked on erickouass.com
+- Try to change yorisi.com theme
+- Donwloded new theme on yorisi.com/app
+- Did some changes
+- Blogs and contact form completed
+- ToDo: Add portfolio image for website
+-	Make major change to the site
+- Site break after the change
+-	Removed installation of the site
+-	Spend over 8+ hours working on the site
+-	footer update
+-	shop items added
+-	fixed footer
+-	changed login logo
+-	Added new page: Tools We Use
+-	Added link in the " Tool We Use"
+-	Business card for yorisi LLC
+-	New site added to Yorisi LLC portfolio
+-	Worked on Hairperfectionist.net all day.
+-	Worked on Hairperfectionist.net 
+-	Installed chat on yorisi.com
+-	Little change on the chat widget
+-	still working on fcc javascript calculator 3.37.19
+-	Worked on erickouass.com 4/11/2019
+- Worked on Yorisi.com 4/12/2019
+-	Reading canvas module 3
+-	Update banks info
+-	Upade google site info 12/12/2019
+-	Try to redesign this section 12.13.2019
+-	Read JavaScript introduction 
+-	Read JavaScript part 1
+-	Update google site info 1/05/2020
+-	Clean gmail inbox 1/06/2020
+-	Add second email sent for club 
+-	Spreadsheet status 1/14/2020
+-	Yorisi date update 01/16/2020
+-	Update erickouassi.com 01/26/2020
+-	Prepare business tax document 2/2/2020
+-	Complete business tax document 2/3/2020
+-	Complete JavaScript Algorithms and Data Structures 2/4/2020
+-	Registration of New Users 2/6/2020
+-	Download JavaScript book 2/7/2020
+-	FCC study 2/8/2020
 
