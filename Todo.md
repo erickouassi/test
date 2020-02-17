@@ -41,4 +41,5 @@
 -	Registration of New Users 2/6/2020
 -	Download JavaScript book 2/7/2020
 -	FCC study 2/8/2020
+- Update code for minor issue 
 
