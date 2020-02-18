@@ -42,4 +42,5 @@
 -	Download JavaScript book 2/7/2020
 -	FCC study 2/8/2020
 - Update code for minor issue 
+- Update JavaScript code for minor issue 2/17/2020
 
