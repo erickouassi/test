@@ -43,4 +43,5 @@
 -	FCC study 2/8/2020
 - Update code for minor issue 
 - Update JavaScript code for minor issue 2/17/2020
+- Add text to site 
 
