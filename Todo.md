@@ -44,4 +44,5 @@
 - Update code for minor issue 
 - Update JavaScript code for minor issue 2/17/2020
 - Add text to site 
+- Insert image to spreadsheet 2/28/200
 
