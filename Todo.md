@@ -46,4 +46,5 @@
 - Add text to site 
 - Insert image to spreadsheet 2/28/2020
 - Create pdf document 3/8/2020
+- Escape in javaScript 3/9/2020
 
