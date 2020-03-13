@@ -49,3 +49,4 @@
 - Escape in javaScript 3/9/2020
 - Replace unicode matches in javascript 3/10/2020
 - Replace unicode matches in javascript (continued) 3/11/2020
+- Print pdf document 3/12/2020
