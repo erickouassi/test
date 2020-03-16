@@ -51,3 +51,4 @@
 - Replace unicode matches in javascript (continued) 3/11/2020
 - Print pdf document 3/12/2020
 - Create  gmail template 3/14/2020
+- Create  Compte Rendu template 3/15/2020
