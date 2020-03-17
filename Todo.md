@@ -52,3 +52,4 @@
 - Print pdf document 3/12/2020
 - Create  gmail template 3/14/2020
 - Create  Compte Rendu template 3/15/2020
+- Add google voice 3/16/2020
