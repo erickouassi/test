@@ -53,3 +53,4 @@
 - Create  gmail template 3/14/2020
 - Create  Compte Rendu template 3/15/2020
 - Add google voice 3/16/2020
+- Create table in this folder 3/23/2020
