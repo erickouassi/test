@@ -18,7 +18,7 @@ There are absolutely NO hidden fees, NO gimmicks, just quality web design.
 
 We offer agency quality designs at small business pricing.
 
-Go to ---> www.coffeecakemedia or call us at (800) 417-5691
+Go to ---> www.coffeecakemedia or call us at (646)552 3666
 
 Coffee Cake Media
 
