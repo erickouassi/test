@@ -55,3 +55,4 @@
 - Add google voice 3/16/2020
 - Create table in this folder 3/23/2020
 - Create preview in spreadsheet 3/24/2020
+- Fix note 3/26/2020
